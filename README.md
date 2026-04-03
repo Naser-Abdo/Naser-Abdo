@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Naser 👋
 
-<!--
-**Naser-Abdo/Naser-Abdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Electronic Engineering Student
+- Interested in IoT and Embedded Systems
+- Currently working on IoT projects using ESP32
 
-Here are some ideas to get you started:
+## Skills
+- C Programming
+- MATLAB
+- Basic Electronics
+- IoT Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- IoT Course Project
